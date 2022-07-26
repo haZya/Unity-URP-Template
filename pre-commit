@@ -1,6 +1,6 @@
 #!/bin/sh
 # 
-# Pre-commit hook script for Unity to enforce file size limit and ensure meta files stay in sync, as well as check that every folder & file
+# The pre-commit hook script for Unity enforces the GitHub file size limit and ensures meta files stay in sync, as well as check that every folder & file
 # marked to be ignored in .gitignore has an entry for its meta file to be ignored too.
 # Based on this: https://github.com/kayy/git-pre-commit-hook-unity-assets & https://github.com/doitian/unity-git-hooks
 # 
