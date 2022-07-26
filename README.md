@@ -6,6 +6,8 @@
 
 This template has been configured to be used with **[Git LFS](https://git-lfs.github.com)**. So, make sure to install **Git LFS** to get the full benefit.
 
+After cloning the repo, make sure to update all packages in the project to the latest.
+
 To enable pre-commit validations, put the ***pre-commit*** file into ***<your_repo>/.git/hooks*** directory. To disable it, remove the file from the directory.
 
 ## Info
